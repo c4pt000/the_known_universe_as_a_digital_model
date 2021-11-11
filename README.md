@@ -36,7 +36,7 @@ the known visible universe if 15 billion light years @ 5.8 trillion miles (6) pe
 
 which is 0.02 * 10^47 kilograms (if EVERY SINGLE AREA OF THE UNIVERSE WAS A SOLID FORM OF MATTER ROUGHLY IF THE UNIVERSE EXPANDED AS A SOLID AT THE STARTING POINT INSTEAD OF EXPLODING WITH THE BIG BANG EVENT)
 
-3.8 * 10^33  known grams in the universe (if you have a ratio of empty space compared to space with physical matter in this version of the known universe exploding as the big bang event instead of expanding a complete physical solid with no empty space)
+3.8 * 10^33  known grams in the universe (if you have a ratio of empty space compared to space with physical matter which is figured as 0 grams for every 180 million miles compared to  in this version of the known universe exploding as the big bang event instead of expanding a complete physical solid with no empty space)
 
 0.017 mol iron (per gram) * 6.022 10^23
 0.08 mol carbon (per gram) * 6.022 10^23
