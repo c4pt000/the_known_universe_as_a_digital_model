@@ -17,6 +17,9 @@ since not all matter has known electrons , protons and neutrons in certain occur
 I continued to figure my mathematical model based off of 6371 kilometers of earth's diameter
 where the actual earth is a guesstimated physical mass of 6 septillion kilo grams
 
+where that would be physical matter that encompasses spatial (space)
+
+then figuring the closest physical star to earth is 90 million miles or 180 million miles on average as the earth orbits 180 millions miles completey around the sun
 
 ```
 5.97×10^24 kg (kilograms) mass of earth
