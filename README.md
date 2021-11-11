@@ -14,6 +14,9 @@ a physical atom existent would be represented as 1 a non existent atom would be 
 
 since not all matter has known electrons , protons and neutrons in certain occurances in an atomic cloud where certain atomic clouds per atom might only have a certain amount of electrons , protons or neutrons 
 
+I continued to figure my mathematical model based off of 6371 kilometers of earth's diameter
+where the actual earth is a guesstimated physical mass of 6 septillion kilo grams
+
 
 ```
 5.97×10^24 kg (kilograms) mass of earth
