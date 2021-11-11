@@ -7,7 +7,7 @@ https://www.livescience.com/how-many-bits-in-the-universe
 it would require 2 Yottabytes to 10 Yottabytes of space
 
 a 10YB hard drive
-# not mathematically acurate since there are no known details descrbing everything completely incorported mathematically just a loose based guesstimate as any other theoretical physicist
+# not mathematically acurate since there are no known details descrbing everything completely incorported mathematically just a loose based guesstimate as any other theoretical physicist or m-theorist
 
 a physical atom existent would be represented as 1 a non existent atom would be represented as a 0
 
