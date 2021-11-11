@@ -20,7 +20,19 @@ where the actual earth is a guesstimated physical mass of 6 septillion kilo gram
 
 where that would be physical matter that encompasses spatial (space)
 
-then figuring the closest physical star to earth is 90 million miles or 180 million miles on average as the earth orbits 180 millions miles completey around the sun
+then figuring the closest physical star to earth is 90 million miles or 180 million miles on average as the earth orbits 180 millions miles completey around the sun (Which would describe a large circular section of "empty space" or 0 grams 
+
+I did not figure the secondary part of the line distance as 150 trillion miles to the nearest star which is 25 light years away as part of this continued speculated mathematical "guesstimate"
+
+1.4 * 10^8 km distance from the sun to the earth
+2.8 * 10^8 km = 0 grams (180 million miles) of 0 grams of empty nothingness
+
+the known visible universe if 15 billion light years @ 5.8 trillion miles (6) per light year
+
+1 light year = 9.656×10^12 kilometers (9.6 trillion kilometers) * 9.6 * 15 = 144 billion * trillion = 144 sextillion kilometers
+
+
+
 
 ```
 5.97×10^24 kg (kilograms) mass of earth
