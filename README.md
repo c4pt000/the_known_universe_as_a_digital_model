@@ -27,11 +27,24 @@ I did not figure the secondary part of the line distance as 150 trillion miles t
 1.4 * 10^8 km distance from the sun to the earth
 2.8 * 10^8 km = 0 grams (180 million miles) of 0 grams of empty nothingness
 
+6371km = 1  6 septillion kilo grams
+
+
 the known visible universe if 15 billion light years @ 5.8 trillion miles (6) per light year
 
 1 light year = 9.656×10^12 kilometers (9.6 trillion kilometers) * 9.6 * 15 = 144 billion * trillion = 144 sextillion kilometers
 
+which is 0.02 * 10^47 kilograms (if EVERY SINGLE AREA OF THE UNIVERSE WAS A SOLID FORM OF MATTER ROUGHLY IF THE UNIVERSE EXPANDED AS A SOLID AT THE STARTING POINT INSTEAD OF EXPLODING WITH THE BIG BANG EVENT)
 
+3.8 * 10^33  known grams in the universe (if you have a ratio of 
+
+0.017 mol iron (per gram) * 6.022 10^23
+0.08 mol carbon (per gram) * 6.022 10^23
+
+1.8 * 10^56 bits                quadrillon * sextillion yottabytes
+8 * 10^60 bits
+
+2 yottabyte
 
 
 ```
